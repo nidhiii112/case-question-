@@ -1,5 +1,5 @@
 //WAP to count the total no. of program in string
-public class string  
+public class string1  
 {    
     public static void main(String[] args) {    
         String string = "The best of both worlds";    

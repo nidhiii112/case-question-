@@ -1,10 +1,12 @@
-public class STRING2 {    
+//program to write a string and print the no. of vowels and consonents present in that string
+import java.util.*;
+public class string2 {    
     public static void main(String[] args) {    
             
         int vCount = 0, cCount = 0;    
             
         //Declare a string    
-        String str = "simple sentence";    
+        String str = "the java course is easy and nice from other languages";    
             
         //ConverT all strings to lower case    
         str = str.toLowerCase();    
