@@ -14,5 +14,6 @@ public class array2{
             System.out.println("given integer is present in the array");
         }
     }
+        
     }
 }
