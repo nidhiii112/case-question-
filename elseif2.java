@@ -27,5 +27,7 @@ public class elseif2 {
         else 
         System.out.println("there is no tax");
         
+        
     }
+    
 }
