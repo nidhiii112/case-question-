@@ -34,5 +34,7 @@ public class elseif1 {
         System.out.println("number entered is out of range:");
     }   
    
+        
     }
+    
 }
