@@ -18,6 +18,7 @@ public class elseif3 {
         {
              System.out.println("student is passed");
         }
+        
         else 
         System.out.println("student is fail");
 
