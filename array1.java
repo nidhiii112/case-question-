@@ -15,5 +15,6 @@ public class array1{
             sum =sum+a[i];
         }
         System.out.println("sum of elements are:"+sum);
+ 
     }
 }
