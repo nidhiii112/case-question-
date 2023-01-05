@@ -12,6 +12,5 @@ public class elseif4 {
         else 
         System.out.println("this year is not a leap year ");
     }
-    
-}
+    }
 
