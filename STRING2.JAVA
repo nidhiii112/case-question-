@@ -20,6 +20,7 @@ public class string2 {
             else if(str.charAt(i) >= 'a' && str.charAt(i)<='z') {        
                 cCount++;    
             }    
+            
         }    
         System.out.println("Number of vowels: " + vCount);    
         System.out.println("Number of consonants: " + cCount);    
