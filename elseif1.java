@@ -32,9 +32,7 @@ public class elseif1 {
         break;
         default:
         System.out.println("number entered is out of range:");
-    }   
-   
-        
-    }
+    }        
+  }
     
 }
