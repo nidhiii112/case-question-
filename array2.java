@@ -11,6 +11,7 @@ public class array2{
         for(int i=0;i<array.length;i++)
         {
         if(num==array[i]){
+            
             System.out.println("given integer is present in the array");
         }
     }
