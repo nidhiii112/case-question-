@@ -6,6 +6,7 @@ public class elseif1 {
     Scanner obj = new Scanner (System.in);
     System.out.println(" enter the integer number:");
     int num = obj.nextInt();
+        
     //by using switch case condition
     switch (num)
     {
