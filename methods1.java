@@ -15,5 +15,6 @@ public class methods1{
     private static int getTotal(int a, int b) {
         return a+b;
     }
+    
 }
  
