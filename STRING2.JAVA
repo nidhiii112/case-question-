@@ -24,5 +24,4 @@ public class string2 {
         System.out.println("Number of vowels: " + vCount);    
         System.out.println("Number of consonants: " + cCount);    
     }    
-    
 }   
