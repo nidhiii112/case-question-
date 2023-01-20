@@ -17,4 +17,5 @@ public class array1{
         System.out.println("sum of elements are:"+sum);
  
     }
+    
 }
