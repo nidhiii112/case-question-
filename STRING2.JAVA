@@ -9,7 +9,7 @@ public class string2 {
         String str = "the java course is easy and nice from other languages";    
             
         //ConverT all strings to lower case    
-        str = str.toLowerCase();    
+        str = str.toLowerCase();     
             
         for(int i = 0; i < str.length(); i++) {    
             //check the string is vowels
