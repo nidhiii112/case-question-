@@ -1,4 +1,4 @@
-/* Program to print this pattern:
+/* Program to print this pattern :
           1 1 1 1
           2 2 2 2
           3 3 3 3
