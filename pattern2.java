@@ -15,7 +15,7 @@ public class pattern2{
             //print star
             System.out.print("*");
         }
-        //for get the curser in new line after printing each line
+        //For get the curser in new line after printing each line
         System.out.println();
     }
     }
