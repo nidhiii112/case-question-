@@ -1,4 +1,5 @@
-//program to write a string and print the nnumbers of vowels and consonents present in that string..
+//program to write a string and print the nnumbers of vowels and consonents present in that string
+
 import java.util.*;
 public class string2 {    
     public static void main(String[] args) {    
