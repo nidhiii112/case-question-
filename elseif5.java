@@ -1,4 +1,4 @@
-//program to find out the type of website from the url
+//program to find out the type of website from the url..
 import java.util.*;
 import java.util.Scanner;
 public class elseif5 {
