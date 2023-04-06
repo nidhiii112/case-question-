@@ -1,4 +1,4 @@
-//program to calculate array of 5 floats and their sum
+//program to calculate array of 5 floats and their sum..
 import java.util.*;
 public class array1{
     public static void main(String[]args) {
