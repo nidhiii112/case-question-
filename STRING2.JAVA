@@ -26,3 +26,4 @@ public class string2 {
         System.out.println("Number of consonants: " + cCount);    
     }     
 }   
+ 
