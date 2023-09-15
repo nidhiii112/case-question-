@@ -1,6 +1,7 @@
 /*write a method named isEven that accepts an int argument . The method should 
  * return true if the argument is even or false otherwise .also write a program 
  * to test your method
+ 
  */
 import java.util.*;
 public class methods2{
