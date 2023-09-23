@@ -1,4 +1,4 @@
-//program to find out wheather a given integer is present in an array or not
+//program to find out wheather a given integer is present in an array or not 
 import java.util.Scanner;
 public class array2{
     public static void main(String[]args) {
