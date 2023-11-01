@@ -13,7 +13,7 @@ public class array1{
         for(i=0;i<5;i++)
         {
             sum =sum+a[i];
-        }
+        } 
         System.out.println("sum of elements are:"+sum);
  
     }
