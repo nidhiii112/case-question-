@@ -2,7 +2,7 @@
 import java.util.*;
 public class array1{
     public static void main(String[]args) {
-        float sum=0;
+        float sum=0; 
         int i;
         float [] a=new float[5];
         a[0]=70.7f;
