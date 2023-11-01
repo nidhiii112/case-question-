@@ -4,7 +4,7 @@ public class array1{
     public static void main(String[]args) {
         float sum=0; 
         int i;
-        float [] a=new float[5];
+        float [] a=new float[5]; 
         a[0]=70.7f;
         a[1]=85.9f;
         a[2]=45.10f;
