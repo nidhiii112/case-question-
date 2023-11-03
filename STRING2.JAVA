@@ -6,7 +6,7 @@ public class string2 {
             
         int vCount = 0, cCount = 0;    
             
-        //Declare a string    
+        //Declare a string     
         String str = "the java course is easy and nice from other languages";     
             
         //ConverT all strings to lower case    
