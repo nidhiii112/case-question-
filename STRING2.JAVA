@@ -5,7 +5,7 @@ public class string2 {
     public static void main(String[] args) {    
             
         int vCount = 0, cCount = 0;    
-             
+              
         //Declare a string     
         String str = "the java course is easy and nice from other languages";     
             
