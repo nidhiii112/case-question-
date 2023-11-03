@@ -17,7 +17,7 @@ public class string2 {
             if(str.charAt(i) == 'a' || str.charAt(i) == 'e' || str.charAt(i) == 'i' || str.charAt(i) == 'o' || str.charAt(i) == 'u') {      
                 vCount++;    
             }    
-            //Checks whether a character is a consonant    
+            //Checks whether a character is a consonant     
             else if(str.charAt(i) >= 'a' && str.charAt(i)<='z') {        
                 cCount++;    
             }     
