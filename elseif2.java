@@ -1,4 +1,4 @@
-//program to calculate income tax paid by an employee
+//program to calculate income tax paid by an employee ..
 import java.util.*;
 import java.util.Scanner;
 public class elseif2 {
